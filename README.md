@@ -1,19 +1,19 @@
-# 🧱 PersonAPI .NET  
+ PersonAPI .NET  
 **Implementación de Monolito con patrón MVC y DAO — Laboratorio 1**
 
 ---
 
-## 📘 Introducción
+Introducción
 
 **Pontificia Universidad Javeriana**  
 **Carrera:** Ingeniería de Sistemas  
 **Laboratorio:** Implementación de Monolito con patrón MVC y DAO  
 **Integrantes:**  
 - Diego Alejandro Jara Rojas  
-- Laura Isabel Montero Blanco
+- Laura Isabel Montero 
 ---
 
-## 🧩 Descripción general
+ Descripción general
 
 Este proyecto consiste en la implementación de un **sistema monolítico basado en el patrón MVC (Modelo–Vista–Controlador)** con integración de un **patrón DAO (Data Access Object)** para la gestión de datos persistentes.  
 
@@ -29,7 +29,7 @@ y ofrece las operaciones CRUD correspondientes para cada entidad.
 
 ---
 
-## ⚙️ Stack tecnológico
+ Stack tecnológico
 
 | Componente | Tecnología |
 |-------------|-------------|
@@ -54,7 +54,7 @@ y ofrece las operaciones CRUD correspondientes para cada entidad.
 
 ---
 
-## 🧱 Diseño
+ Diseño
 
 El sistema sigue una **arquitectura monolítica** organizada en tres capas principales:
 
@@ -72,9 +72,9 @@ El sistema sigue una **arquitectura monolítica** organizada en tres capas princ
 
 +----------------------------+
 
-## 🚀 Ejecución
+ Ejecución
 
-### ⚙️ Requisitos previos
+Requisitos previos
 Antes de ejecutar el proyecto, asegúrate de tener instalado y configurado lo siguiente:
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
@@ -84,7 +84,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado y configurado lo si
 
 ---
 
-### ▶️ Ejecución automática (recomendada)
+ Ejecución automática (recomendada)
 
 El proyecto incluye un script automatizado llamado `init-full.bat` (para Windows), el cual realiza todo el proceso de despliegue:
 
