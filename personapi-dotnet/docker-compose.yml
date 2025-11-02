@@ -1,0 +1,30 @@
+# docker-compose.yml
+version: '3.9'
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrong!Passw0rd
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql 
+  app:
+    build: .
+    container_name: personapi-dotnet
+    depends_on:
+      - db
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=db;Database=arq_per_db;User Id=sa;Password=YourStrong!Passw0rd;TrustServerCertificate=true;
+    ports:
+      - "8080:80"
+    #volumes:
+     # - .:/app
+    command: ["dotnet", "personapi-dotnet.dll"]
+
+volumes:
+  sql_data:
