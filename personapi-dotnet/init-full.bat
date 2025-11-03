@@ -12,19 +12,28 @@ if %errorlevel% neq 0 (
 )
 
 echo ==========================================
-echo 🧩 2/3 - Ejecutando init.sql dentro del contenedor SQL Server
+echo 2/3 - Ejecutando scripts SQL (DDL + DML)
 echo ==========================================
 docker exec -it sqlserver /opt/mssql-tools18/bin/sqlcmd ^
   -S localhost -U sa -P "YourStrong!Passw0rd" -C ^
-  -i /docker-entrypoint-initdb.d/init.sql
+  -i /docker-entrypoint-initdb.d/init_ddl.sql
 
 if %errorlevel% neq 0 (
-    echo Error al ejecutar el script SQL.
+    echo Error al ejecutar init_ddl.sql.
+    exit /b %errorlevel%
+)
+
+docker exec -it sqlserver /opt/mssql-tools18/bin/sqlcmd ^
+  -S localhost -U sa -P "YourStrong!Passw0rd" -C ^
+  -i /docker-entrypoint-initdb.d/init_dml.sql
+
+if %errorlevel% neq 0 (
+    echo Error al ejecutar init_dml.sql.
     exit /b %errorlevel%
 )
 
 echo ==========================================
-echo 🧠 3/3 - Generando entidades con Scaffold-DbContext
+echo 3/3 - Generando entidades con Scaffold-DbContext
 echo ==========================================
 
 :: Mueve a la carpeta del proyecto (ajusta si tu .csproj está en subcarpeta)

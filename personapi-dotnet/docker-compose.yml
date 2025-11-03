@@ -1,5 +1,6 @@
 # docker-compose.yml
 version: '3.9'
+
 services:
   db:
     image: mcr.microsoft.com/mssql/server:2022-latest
@@ -11,7 +12,8 @@ services:
       - "1433:1433"
     volumes:
       - sql_data:/var/opt/mssql
-      - ./init.sql:/docker-entrypoint-initdb.d/init.sql 
+      - ./init_ddl.sql:/docker-entrypoint-initdb.d/init_ddl.sql
+      - ./init_dml.sql:/docker-entrypoint-initdb.d/init_dml.sql
   app:
     build: .
     container_name: personapi-dotnet
@@ -22,8 +24,6 @@ services:
       - ConnectionStrings__DefaultConnection=Server=db;Database=arq_per_db;User Id=sa;Password=YourStrong!Passw0rd;TrustServerCertificate=true;
     ports:
       - "8080:80"
-    #volumes:
-     # - .:/app
     command: ["dotnet", "personapi-dotnet.dll"]
 
 volumes:
