@@ -44,7 +44,7 @@ y ofrece las operaciones CRUD correspondientes para cada entidad.
 
 ---
 
-## 🧠 Marco conceptual
+ Marco conceptual
 
 - **MVC (Modelo–Vista–Controlador):** patrón arquitectónico que separa la lógica de negocio, la interfaz y el control del flujo de datos, facilitando la mantenibilidad del sistema.
 - **DAO (Data Access Object):** patrón de diseño que abstrae la capa de acceso a datos del resto de la aplicación, permitiendo la independencia entre la lógica de negocio y el motor de base de datos.
