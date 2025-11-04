@@ -4722,23 +4722,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\diego\\.nuget\\packages\\": {},
+    "C:\\Users\\LAURA ISABEL MONTERO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\personapi-dotnet.csproj",
+      "projectUniqueName": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\personapi-dotnet.csproj",
       "projectName": "personapi-dotnet",
-      "projectPath": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\personapi-dotnet.csproj",
-      "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\obj\\",
+      "projectPath": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\personapi-dotnet.csproj",
+      "packagesPath": "C:\\Users\\LAURA ISABEL MONTERO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LAURA ISABEL MONTERO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

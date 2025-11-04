@@ -12,8 +12,8 @@ services:
       - "1433:1433"
     volumes:
       - sql_data:/var/opt/mssql
-      - ./init_ddl.sql:/docker-entrypoint-initdb.d/init_ddl.sql
-      - ./init_dml.sql:/docker-entrypoint-initdb.d/init_dml.sql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql 
+
   app:
     build: .
     container_name: personapi-dotnet
@@ -21,9 +21,10 @@ services:
       - db
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:8080
       - ConnectionStrings__DefaultConnection=Server=db;Database=arq_per_db;User Id=sa;Password=YourStrong!Passw0rd;TrustServerCertificate=true;
     ports:
-      - "8080:80"
+      - "8080:8080"
     command: ["dotnet", "personapi-dotnet.dll"]
 
 volumes:

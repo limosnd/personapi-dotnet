@@ -1,70 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\",
+  "WorkspaceRootPath": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\init_dml.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:init_dml.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\init_ddl.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:init_ddl.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\init-full.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:init-full.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\laura isabel montero\\downloads\\lab1\\personapi-dotnet\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\laura isabel montero\\downloads\\lab1\\personapi-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\laura isabel montero\\downloads\\lab1\\personapi-dotnet\\init_dml.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:init_dml.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\laura isabel montero\\downloads\\lab1\\personapi-dotnet\\init_ddl.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:init_ddl.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\laura isabel montero\\downloads\\lab1\\personapi-dotnet\\init-full.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:init-full.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\laura isabel montero\\downloads\\lab1\\personapi-dotnet\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\laura isabel montero\\downloads\\lab1\\personapi-dotnet\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\laura isabel montero\\downloads\\lab1\\personapi-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\models\\entities\\arqperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\laura isabel montero\\downloads\\lab1\\personapi-dotnet\\models\\entities\\arqperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:models\\entities\\arqperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\laura isabel montero\\downloads\\lab1\\personapi-dotnet\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\personapi-dotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\laura isabel montero\\downloads\\lab1\\personapi-dotnet\\personapi-dotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:personapi-dotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\personapi-dotnet.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\personapi-dotnet.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\personapi-dotnet.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\init_dml.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\laura isabel montero\\downloads\\lab1\\personapi-dotnet\\init_dml.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:init_dml.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|c:\\users\\diego\\source\\repos\\monolito-mvc-dao\\personapi-dotnet\\init_ddl.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{7E145CC3-007D-4ABE-BAF0-E5E68D77AFD4}|personapi-dotnet.csproj|solutionrelative:init_ddl.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,27 +70,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "init_ddl.sql ",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\init_ddl.sql",
-              "RelativeDocumentMoniker": "init_ddl.sql",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\init_ddl.sql",
-              "RelativeToolTip": "init_ddl.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-03T18:03:30.555Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "init_ddl.sql",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\init_ddl.sql",
+              "RelativeDocumentMoniker": "init_ddl.sql",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\init_ddl.sql",
+              "RelativeToolTip": "init_ddl.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-03T18:03:30.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "init_dml.sql ",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\init_dml.sql",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\init_dml.sql",
               "RelativeDocumentMoniker": "init_dml.sql",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\init_dml.sql",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\init_dml.sql",
               "RelativeToolTip": "init_dml.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-11-03T17:14:35.239Z",
@@ -104,24 +103,23 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\Models\\Entities\\Persona.cs",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\Models\\Entities\\Persona.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Persona.cs",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\Models\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\Models\\Entities\\Persona.cs",
               "RelativeToolTip": "Models\\Entities\\Persona.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T16:43:59.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T16:43:59.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\Program.cs",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T15:15:57.855Z",
               "EditorCaption": ""
@@ -130,87 +128,86 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ArqPerDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\Models\\Entities\\ArqPerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\Models\\Entities\\ArqPerDbContext.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\ArqPerDbContext.cs",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\Models\\Entities\\ArqPerDbContext.cs",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\Models\\Entities\\ArqPerDbContext.cs",
               "RelativeToolTip": "Models\\Entities\\ArqPerDbContext.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T14:42:16.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T14:42:16.234Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\Dockerfile",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\Dockerfile",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-02T18:13:44.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T18:13:44.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-02T18:05:58.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "init-full.bat",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\init-full.bat",
-              "RelativeDocumentMoniker": "init-full.bat",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\init-full.bat",
-              "RelativeToolTip": "init-full.bat",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
-              "WhenOpened": "2025-11-02T22:50:44.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-11-02T18:01:59.654Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T18:05:58.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "init-full.bat",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\init-full.bat",
+              "RelativeDocumentMoniker": "init-full.bat",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\init-full.bat",
+              "RelativeToolTip": "init-full.bat",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2025-11-02T22:50:44.135Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T14:42:12.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T14:42:12.076Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "personapi-dotnet.csproj.nuget.g.props",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.g.props",
+              "Title": "personapi-dotnet.csproj.nuget.g.props [Read Only]",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.g.props",
               "RelativeDocumentMoniker": "obj\\personapi-dotnet.csproj.nuget.g.props",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.g.props [Read Only]",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.g.props [Read Only]",
               "RelativeToolTip": "obj\\personapi-dotnet.csproj.nuget.g.props [Read Only]",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
@@ -221,9 +218,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "personapi-dotnet.csproj.nuget.dgspec.json",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.dgspec.json",
               "RelativeDocumentMoniker": "obj\\personapi-dotnet.csproj.nuget.dgspec.json",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.dgspec.json",
               "RelativeToolTip": "obj\\personapi-dotnet.csproj.nuget.dgspec.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -233,22 +230,21 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "personapi-dotnet.csproj",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\personapi-dotnet.csproj",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\personapi-dotnet.csproj",
               "RelativeDocumentMoniker": "personapi-dotnet.csproj",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\personapi-dotnet.csproj",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\personapi-dotnet.csproj",
               "RelativeToolTip": "personapi-dotnet.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-02T18:22:30.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T18:22:30.509Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "personapi-dotnet.csproj.nuget.g.targets",
-              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.g.targets",
+              "DocumentMoniker": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.g.targets",
               "RelativeDocumentMoniker": "obj\\personapi-dotnet.csproj.nuget.g.targets",
-              "ToolTip": "C:\\Users\\diego\\source\\repos\\Monolito-MVC-DAO\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.g.targets",
+              "ToolTip": "C:\\Users\\LAURA ISABEL MONTERO\\Downloads\\lab1\\personapi-dotnet\\obj\\personapi-dotnet.csproj.nuget.g.targets",
               "RelativeToolTip": "obj\\personapi-dotnet.csproj.nuget.g.targets",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
