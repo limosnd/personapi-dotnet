@@ -1,0 +1,23 @@
+@model IEnumerable<personapi_dotnet.Models.Entities.Profesion>
+@{
+ ViewData["Title"] = "Profesiones";
+}
+<h1>Profesiones</h1>
+<p><a class="btn btn-primary" asp-action="Create">Create New</a></p>
+<table class="table">
+ <thead><tr><th>Id</th><th>Nombre</th><th>Descripcion</th><th></th></tr></thead>
+ <tbody>
+ @foreach(var item in Model){
+ <tr>
+ <td>@item.Id</td>
+ <td>@item.Nom</td>
+ <td>@item.Des</td>
+ <td>
+ <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@item.Id">Details</a>
+ <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+ <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+ </td>
+ </tr>
+ }
+ </tbody>
+</table>

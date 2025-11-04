@@ -1,0 +1,21 @@
+@model personapi_dotnet.Models.Entities.Profesion
+@{
+ ViewData["Title"] = "Create Profesion";
+}
+<h1>Create Profesion</h1>
+<form asp-action="Create" method="post">
+ <div class="form-group">
+ <label asp-for="Id"></label>
+ <input class="form-control" asp-for="Id" />
+ </div>
+ <div class="form-group">
+ <label asp-for="Nom"></label>
+ <input class="form-control" asp-for="Nom" />
+ </div>
+ <div class="form-group">
+ <label asp-for="Des"></label>
+ <input class="form-control" asp-for="Des" />
+ </div>
+ <button type="submit" class="btn btn-primary">Create</button>
+ <a class="btn btn-secondary" asp-action="Index">Back to List</a>
+</form>

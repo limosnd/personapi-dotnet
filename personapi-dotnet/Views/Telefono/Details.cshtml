@@ -1,0 +1,14 @@
+@model personapi_dotnet.Models.Entities.Telefono
+@{
+ ViewData["Title"] = "Telefono Details";
+}
+<h1>Telefono Details</h1>
+<dl class="row">
+ <dt class="col-sm-2">Num</dt>
+ <dd class="col-sm-10">@Model.Num</dd>
+ <dt class="col-sm-2">Oper</dt>
+ <dd class="col-sm-10">@Model.Oper</dd>
+ <dt class="col-sm-2">Duenio</dt>
+ <dd class="col-sm-10">@Model.DuenioNavigation?.Nombre</dd>
+</dl>
+<a class="btn btn-primary" asp-action="Index">Back to List</a>

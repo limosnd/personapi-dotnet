@@ -1,0 +1,21 @@
+@model personapi_dotnet.Models.Entities.Telefono
+@{
+ ViewData["Title"] = "Create Telefono";
+}
+<h1>Create Telefono</h1>
+<form asp-action="Create" method="post">
+ <div class="form-group">
+ <label asp-for="Num"></label>
+ <input class="form-control" asp-for="Num" />
+ </div>
+ <div class="form-group">
+ <label asp-for="Oper"></label>
+ <input class="form-control" asp-for="Oper" />
+ </div>
+ <div class="form-group">
+ <label>Duenio</label>
+ <select class="form-control" asp-for="Duenio" asp-items="(SelectList)ViewData["Duenio"]"></select>
+ </div>
+ <button type="submit" class="btn btn-primary">Create</button>
+ <a class="btn btn-secondary" asp-action="Index">Back to List</a>
+</form>

@@ -1,0 +1,17 @@
+@model personapi_dotnet.Models.Entities.Telefono
+@{
+ ViewData["Title"] = "Delete Telefono";
+}
+<h1>Delete Telefono</h1>
+<h3>Are you sure?</h3>
+<dl class="row">
+ <dt class="col-sm-2">Num</dt>
+ <dd class="col-sm-10">@Model.Num</dd>
+ <dt class="col-sm-2">Oper</dt>
+ <dd class="col-sm-10">@Model.Oper</dd>
+</dl>
+<form asp-action="Delete">
+ <input type="hidden" asp-for="Num" />
+ <button type="submit" class="btn btn-danger">Delete</button>
+ <a class="btn btn-secondary" asp-action="Index">Back to List</a>
+</form>

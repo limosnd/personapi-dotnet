@@ -1,0 +1,31 @@
+@model personapi_dotnet.Models.Entities.Persona
+
+@{
+ ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<form asp-action="Edit" method="post">
+ <input type="hidden" asp-for="Cc" />
+ <div class="form-group">
+ <label asp-for="Nombre"></label>
+ <input class="form-control" asp-for="Nombre" />
+ </div>
+ <div class="form-group">
+ <label asp-for="Apellido"></label>
+ <input class="form-control" asp-for="Apellido" />
+ </div>
+ <div class="form-group">
+ <label asp-for="Genero"></label>
+ <input class="form-control" asp-for="Genero" />
+ </div>
+ <div class="form-group">
+ <label asp-for="Edad"></label>
+ <input class="form-control" asp-for="Edad" />
+ </div>
+ <div class="form-group">
+ <button type="submit" class="btn btn-primary">Save</button>
+ <a class="btn btn-secondary" asp-action="Index">Back to List</a>
+ </div>
+</form>

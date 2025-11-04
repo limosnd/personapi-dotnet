@@ -1,0 +1,16 @@
+@model personapi_dotnet.Models.Entities.Estudio
+@{
+ ViewData["Title"] = "Estudio Details";
+}
+<h1>Estudio Details</h1>
+<dl class="row">
+ <dt class="col-sm-2">Profesion</dt>
+ <dd class="col-sm-10">@Model.IdProfNavigation?.Nom</dd>
+ <dt class="col-sm-2">Persona</dt>
+ <dd class="col-sm-10">@Model.CcPerNavigation?.Nombre</dd>
+ <dt class="col-sm-2">Fecha</dt>
+ <dd class="col-sm-10">@Model.Fecha</dd>
+ <dt class="col-sm-2">Universidad</dt>
+ <dd class="col-sm-10">@Model.Univer</dd>
+</dl>
+<a class="btn btn-primary" asp-action="Index">Back to List</a>
