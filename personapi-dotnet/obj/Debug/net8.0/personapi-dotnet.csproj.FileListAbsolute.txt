@@ -168,3 +168,16 @@ C:\Users\diego\source\repos\personapi-dotnet\obj\Debug\net8.0\refint\personapi-d
 C:\Users\diego\source\repos\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.pdb
 C:\Users\diego\source\repos\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.genruntimeconfig.cache
 C:\Users\diego\source\repos\personapi-dotnet\obj\Debug\net8.0\ref\personapi-dotnet.dll
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.AssemblyInfo.cs
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.RazorAssemblyInfo.cache
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.RazorAssemblyInfo.cs
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.sourcelink.json
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.dll
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\refint\personapi-dotnet.dll
+C:\Users\diego\source\repos\Monolito-MVC-DAO\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.pdb

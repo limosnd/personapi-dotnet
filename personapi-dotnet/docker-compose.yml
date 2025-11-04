@@ -19,11 +19,10 @@ services:
       - db
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:80
       - ConnectionStrings__DefaultConnection=Server=db;Database=arq_per_db;User Id=sa;Password=YourStrong!Passw0rd;TrustServerCertificate=true;
     ports:
       - "8080:80"
-    #volumes:
-     # - .:/app
     command: ["dotnet", "personapi-dotnet.dll"]
 
 volumes:
