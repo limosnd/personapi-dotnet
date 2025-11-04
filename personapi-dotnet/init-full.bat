@@ -11,11 +11,15 @@ if %errorlevel% neq 0 (
     exit /b %errorlevel%
 )
 
+
 echo ==========================================
 echo 🧩 2/3 - Ejecutando init.sql dentro del contenedor SQL Server
 echo ==========================================
+echo Esperando 10 segundos para que SQL Server inicie completamente...
+timeout /t 10 /nobreak >nul
+
 docker exec -it sqlserver /opt/mssql-tools18/bin/sqlcmd ^
-  -S localhost -U sa -P "YourStrong!Passw0rd" -C ^
+  -S sqlserver -U sa -P "YourStrong!Passw0rd" -C ^
   -i /docker-entrypoint-initdb.d/init.sql
 
 if %errorlevel% neq 0 (

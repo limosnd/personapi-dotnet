@@ -1,5 +1,6 @@
 # docker-compose.yml
 version: '3.9'
+
 services:
   db:
     image: mcr.microsoft.com/mssql/server:2022-latest
@@ -12,6 +13,7 @@ services:
     volumes:
       - sql_data:/var/opt/mssql
       - ./init.sql:/docker-entrypoint-initdb.d/init.sql 
+
   app:
     build: .
     container_name: personapi-dotnet
@@ -19,10 +21,10 @@ services:
       - db
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
-      - ASPNETCORE_URLS=http://+:80
+      - ASPNETCORE_URLS=http://+:8080
       - ConnectionStrings__DefaultConnection=Server=db;Database=arq_per_db;User Id=sa;Password=YourStrong!Passw0rd;TrustServerCertificate=true;
     ports:
-      - "8080:80"
+      - "8080:8080"
     command: ["dotnet", "personapi-dotnet.dll"]
 
 volumes:
